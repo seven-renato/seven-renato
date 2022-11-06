@@ -25,4 +25,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=seven-renato&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22tjovapuc5u3ngrnge36zjdq)
