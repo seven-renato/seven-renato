@@ -22,7 +22,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### Recently played on Spotify
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22tjovapuc5u3ngrnge36zjdq)
 ---
 [![](https://visitcount.itsvg.in/api?id=seven-renato&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+### 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22tjovapuc5u3ngrnge36zjdq)
