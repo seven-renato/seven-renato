@@ -3,7 +3,7 @@
 <ul> 
   <li><b>Full Name:</b> Paulo Renato Pereira das Neves Neto</li>
   <li><b>Age:</b> 18</li>
-  <li><b>Living in:</b> Rio Grande, Rio Grande do Sul, Brasil</li>
+  <li><b>Living in:</b> Rio Grande, Rio Grande do Sul, Brazil</li>
   <li><b>Full Name:</b> Paulo Renato Pereira das Neves Neto</li>
 </ul>
 🌐 Full-Stack Developer<br>📖 Studying Python, TypeScript, ReactJS and PHP<br>👨‍🎓 Information Systems Student at FURG - 2022/01 <br><br>Sou um amante da tecnologia inspirado pela curiosidade ☂️
