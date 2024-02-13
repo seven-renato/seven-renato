@@ -5,7 +5,7 @@
   <li><b>Age:</b> 19</li>
   <li><b>Living in:</b> Rio Grande, Rio Grande do Sul, Brazil.</li>
 </ul>
-🌐 Developer<br>📖 Studying .NET, Lua, Python, NodeJS, ReactJS and MYSQL<br>👨‍🎓 Information Systems Student at FURG - 2022/01 <br><br>Sou um amante da tecnologia inspirado pela curiosidade ☂️.
+🌐 Developer<br>📖 Studying .NET, Lua, Python, NodeJS, ReactJS and MYSQL<br>👨‍🎓 Information Systems Student at FURG - 2022/2026 <br><br>Sou um amante da tecnologia inspirado pela curiosidade ☂️.
 
 
 ## 🌐 Socials:
