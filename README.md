@@ -5,7 +5,7 @@
   <li><b>Age:</b> 19</li>
   <li><b>Living in:</b> Rio Grande, Rio Grande do Sul, Brazil.</li>
 </ul>
-🌐 Developer<br>📖 Studying Typescript, NestJS, C#, .NET, Cybersecurity, Python, NodeJS and PostgreSQL/MySQL<br>👨‍🎓 Information Systems Student at FURG - 2022/2026 <br><br>Sou um amante da tecnologia inspirado pela curiosidade ☂️.
+🌐 Developer<br>📖 Studying Java, Springboot, DevOps, Typescript, NestJS, Cybersecurity, Python and PostgreSQL/MySQL<br>👨‍🎓 Information Systems Student at FURG - 2022/2026 <br><br>Sou um amante da tecnologia inspirado pela curiosidade ☂️.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/seven.renato)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seven.renato) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//seven-renato)
