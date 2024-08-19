@@ -1,6 +1,6 @@
 # 💫 About  Me:
 <ul> 
-  <li><b>Full Name:</b> Paulo Renato Pereira Das Neves Neto</li>
+  <li><b>Full Name: </b> Paulo Renato Pereira Das Neves Neto</li>
   <li><b>Age:</b> 20</li>
   <li><b>Living in:</b> Rio Grande, Rio Grande do Sul, Brazil.</li>
 </ul>
